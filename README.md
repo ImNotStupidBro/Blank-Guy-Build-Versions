@@ -4,7 +4,7 @@ This will be the first game I try to professionally develop. I'm hoping to add m
 
 How to play:
 1) Select the build version you'd like to play
-2) Download and unzip the zip file of the folder
+2) Download and unzip the zip file of the folder. You can delete any folders containing versions you don't intend on playing.
 3) Run the .exe file you extract.
 
 If you have difficulties running the game, feel free to create an issue ticket.
